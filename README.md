@@ -60,7 +60,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 ### Back End Link
 
-- Click [here](https://github.com/brhanuhailu/hello-rail-back-end) for front end link
+- Click [here](https://github.com/brhanuhailu/hello-rail-back-end) for back end link
 
 ### Prerequisites
 

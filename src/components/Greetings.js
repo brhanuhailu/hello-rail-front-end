@@ -15,7 +15,7 @@ const Greeting = () => {
   return (
     <>
       <div>
-        <h2 style={{ textAlign: 'center', marginTop: '3em' }}>{greeting.greeting}</h2>
+        <h2 style={{ textAlign: 'center', marginTop: '4em' }}>{greeting.greeting}</h2>
       </div>
     </>
   );
